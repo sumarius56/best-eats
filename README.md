@@ -1,2 +1,2 @@
 # best-eats
-Made with React! Images are from unsplash feel free to use them if u want
+Made with React! Hosted here: https://best-eats-snfg.web.app/ !
